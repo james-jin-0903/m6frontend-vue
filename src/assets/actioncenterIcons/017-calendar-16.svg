@@ -1,0 +1,9 @@
+<svg id="_017-calendar-16" data-name="017-calendar-16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.004" x2="0.5" y2="0.004" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2af598"/>
+      <stop offset="1" stop-color="#009efd"/>
+    </linearGradient>
+  </defs>
+  <path id="_017-calendar-16-2" data-name="017-calendar-16" d="M452,40H428V0H388V40H124V0H84V40H60A60.068,60.068,0,0,0,0,100V452a60.068,60.068,0,0,0,60,60H452a60.068,60.068,0,0,0,60-60V100A60.068,60.068,0,0,0,452,40ZM60,80H84v40h40V80H388v40h40V80h24a20.023,20.023,0,0,1,20,20v48H40V100A20.023,20.023,0,0,1,60,80ZM452,472H60a20.023,20.023,0,0,1-20-20V188H472V452A20.023,20.023,0,0,1,452,472Z" fill="url(#linear-gradient)"/>
+</svg>

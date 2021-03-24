@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="295.616" height="268.48" viewBox="0 0 295.616 268.48">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.004" x2="0.5" y2="0.004" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2af598"/>
+      <stop offset="1" stop-color="#009efd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-1" y1="1" x2="0.623" y2="1.88" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#01abe8"/>
+      <stop offset="1" stop-color="#08bca8"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1794" data-name="Group 1794" transform="translate(-181.141 -890.922)">
+    <g id="Group_1793" data-name="Group 1793">
+      <g id="Group_1790" data-name="Group 1790" transform="translate(181.141 890.922)">
+        <g id="_160-chat" data-name="160-chat" transform="translate(0 0)">
+          <path id="_160-chat-2" data-name="160-chat" d="M52.783,268.48h-.244l-20.76-.031,10.96-17.622c.057-.094,6.413-10.567,11.311-27.848C18.641,202.181,0,167.6,0,122.4c0-20.9,4-39.671,11.881-55.8A103.425,103.425,0,0,1,44.694,27.922C69.976,9.655,105.633,0,147.808,0S225.64,9.655,250.922,27.922a103.425,103.425,0,0,1,32.813,38.684c7.883,16.127,11.881,34.9,11.881,55.8s-4,39.671-11.881,55.8a103.429,103.429,0,0,1-32.813,38.684c-25.282,18.266-60.939,27.922-103.114,27.922a247.345,247.345,0,0,1-33.976-2.257C89.392,267.066,59.335,268.48,52.783,268.48ZM147.808,23.1c-37.289,0-68.268,8.143-89.588,23.547C34.913,63.482,23.1,88.972,23.1,122.4c0,39.768,16.639,68.14,49.455,84.326l8.125,4.008-1.96,8.846a170.935,170.935,0,0,1-6.584,22.394,64.789,64.789,0,0,0,28.656-19.307l4.255-4.942,6.43,1.092a218.055,218.055,0,0,0,36.337,2.892c37.289,0,68.267-8.143,89.588-23.547,23.308-16.84,35.125-42.33,35.125-75.762S260.7,63.482,237.4,46.642C216.076,31.237,185.1,23.1,147.808,23.1Z" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="group" transform="translate(220.383 944.424)">
+        <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="20.586" cy="20.586" rx="20.586" ry="20.586" transform="translate(161.039 12.936)" fill="url(#linear-gradient-2)"/>
+        <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="20.586" cy="20.586" rx="20.586" ry="20.586" transform="translate(16.726 12.936)" fill="url(#linear-gradient-2)"/>
+        <path id="Path_889" data-name="Path 889" d="M361.615,251.348a37.132,37.132,0,0,0-24.3,9.016,64.179,64.179,0,0,1,15.054,28.3h46.561A37.312,37.312,0,0,0,361.615,251.348Z" transform="translate(-179.991 -183.248)" fill="url(#linear-gradient-2)"/>
+        <path id="Path_890" data-name="Path 890" d="M176.68,255.335a50.72,50.72,0,0,0-50.72,50.721H227.4A50.72,50.72,0,0,0,176.68,255.335Z" transform="translate(-67.213 -185.376)" fill="url(#linear-gradient-2)"/>
+        <path id="Path_891" data-name="Path 891" d="M37.312,251.348A37.311,37.311,0,0,0,0,288.66H46.561a64.173,64.173,0,0,1,15.054-28.3A37.134,37.134,0,0,0,37.312,251.348Z" transform="translate(0 -183.248)" fill="url(#linear-gradient-2)"/>
+        <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="27.984" cy="27.984" rx="27.984" ry="27.984" transform="translate(81.484 0)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>

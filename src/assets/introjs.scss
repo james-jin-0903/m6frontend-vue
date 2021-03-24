@@ -1,0 +1,16 @@
+.introjs-fixParent {
+    z-index: 999999 !important;
+}
+
+.introjs-fixedTooltip {
+    position: absolute !important;
+}
+
+.introjs-helperLayer {
+  background: transparent !important;
+  box-shadow: 0 0 0 9999px rgba(1, 1, 1, 0.8);
+}
+
+.introjs-overlay {
+  background: transparent !important;
+}

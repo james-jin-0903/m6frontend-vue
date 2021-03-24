@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="299.761" height="272.244" viewBox="0 0 299.761 272.244">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.004" x2="0.5" y2="0.004" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2af598"/>
+      <stop offset="1" stop-color="#009efd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-1" y1="1" x2="0.623" y2="1.88" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#01abe8"/>
+      <stop offset="1" stop-color="#08bca8"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1792" data-name="Group 1792" transform="translate(-956 -933)">
+    <g id="Group_1791" data-name="Group 1791" transform="translate(956 933)">
+      <g id="_160-chat" data-name="160-chat" transform="translate(0 0)">
+        <path id="_160-chat-2" data-name="160-chat" d="M246.238,272.244h.248l21.051-.031-11.114-17.869c-.058-.095-6.5-10.715-11.47-28.238,35.907-21.09,54.809-56.153,54.809-101.986,0-21.191-4.054-40.227-12.048-56.58A104.875,104.875,0,0,0,254.44,28.313C228.8,9.79,192.647,0,149.88,0S70.957,9.791,45.321,28.313A104.875,104.875,0,0,0,12.048,67.539C4.054,83.892,0,102.929,0,124.12s4.054,40.227,12.048,56.58a104.88,104.88,0,0,0,33.273,39.226c25.637,18.523,61.793,28.313,104.56,28.313a250.813,250.813,0,0,0,34.453-2.289C209.115,270.81,239.594,272.244,246.238,272.244ZM149.88,23.419c37.811,0,69.225,8.257,90.844,23.877,23.634,17.076,35.618,42.923,35.618,76.824,0,40.325-16.872,69.095-50.148,85.509l-8.239,4.064,1.988,8.97a173.329,173.329,0,0,0,6.677,22.708,65.7,65.7,0,0,1-29.058-19.578l-4.314-5.012-6.52,1.107a221.11,221.11,0,0,1-36.847,2.933c-37.811,0-69.224-8.257-90.844-23.877C35.4,183.867,23.419,158.02,23.419,124.12S35.4,64.372,59.036,47.3C80.656,31.675,112.069,23.419,149.88,23.419Z" transform="translate(0)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="group" transform="translate(1040.5 976.635)">
+      <path id="Path_890" data-name="Path 890" d="M191.142,255.335a65.182,65.182,0,0,0-65.182,65.182H256.324A65.182,65.182,0,0,0,191.142,255.335Z" transform="translate(-125.96 -165.429)" fill="url(#linear-gradient-2)"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="35.962" cy="35.962" r="35.962" transform="translate(29.219 0)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

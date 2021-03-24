@@ -1,0 +1,398 @@
+$border-color: #dddddd;
+
+p {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+.border-1 {
+  border-width: 1px;
+  border-color: $border-color;
+  border-style: solid;
+}
+
+.vertical-scroll {
+  overflow-y: scroll;
+}
+.horizontal-scroll {
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.dont-show-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.dont-show-scroll {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.text-style {
+  background-color: white;
+  line-height: 1.5;
+  color: #4d4e53;
+}
+.float-button {
+  background-color: #ffffffa8;
+  position: sticky;
+  z-index: 1;
+  top: 8vh;
+}
+.cursor-hover:hover {
+  cursor: pointer;
+}
+.underline:hover {
+  text-decoration: underline;
+}
+.comment-btn {
+  color: #65676b;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.inline {
+  display: inline-block !important;
+}
+
+.inline-flex {
+  display: inline-flex;
+}
+.d-flex{
+  display: flex;
+}
+.block {
+  display: block;
+}
+
+.comment-text {
+  font-size: 9.4 rem;
+  color: #010416 !important;
+  line-height: 1.3333 !important;
+}
+.comment-user-text {
+  font-size: 8.1 rem !important;
+  color: #010416 !important;
+  line-height: 1.2308 !important;
+  font-weight: 600;
+}
+.timestamp {
+  font-size: 12px;
+  color: #65676b;
+}
+.normal{
+  font-weight:normal
+}
+.bold{
+  font-weight: bold;
+}
+.bold-emphasis{
+  font-weight: bold;
+  color: black;
+}
+
+.size-12 {
+  font-size: 12px;
+}
+
+.va-middle {
+  vertical-align: middle;
+}
+
+.size-13 {
+  font-size: 13px;
+}
+
+.size-14 {
+  font-size: 14px;
+}
+
+.size-15 {
+  font-size: 15px;
+}
+
+.size-16 {
+  font-size: 16px;
+}
+
+.size-20 {
+  font-size: 20px;
+}
+
+.size-22 {
+  font-size: 22px;
+}
+
+.line-height-1 {
+  line-height: 1;
+}
+
+.max-h-card {
+  max-height: 400px;
+}
+.min-h-full {
+  min-height: 100%;
+}
+.h-auto {
+  height: auto;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.h-viewport {
+  height: 100vh;
+}
+
+.h-sidepanel{
+  height: calc(100vh - 60px);
+}
+
+.w-auto{
+  width: auto;
+}
+
+.w-full {
+  width: 100% !important;
+}
+
+.w-half {
+  width: 50% !important;
+}
+
+.w-3__5 {
+  width: 60% !important;
+}
+
+.w-70 {
+  width: 70% !important;
+}
+
+.w-2__5 {
+  width: 40%;
+}
+
+.w-viewport {
+  width: 100vw;
+}
+
+.w-fit {
+  width: fit-content;
+}
+
+.w-side {
+  width: 26% !important;
+}
+
+.max-w-full {
+  max-width: 100%;
+}
+
+.max-w-side {
+  max-width: 370px;
+}
+
+.help-text__span {
+  background-color: #1976d2;
+  color: white;
+  border-radius: 8px;
+  padding: 5px 10px;
+}
+
+.max-w-content {
+  max-width: 742px;
+}
+.max-w-lg {
+  max-width: 1024px;
+}
+.max-w-settings {
+  max-width: 1300px;
+}
+.max-w-xl {
+  max-width: 1920px;
+}
+.max-w-container {
+  max-width: 1800px;
+}
+
+.max-w-tight {
+  max-width: 620px;
+}
+.w-content {
+  width: 48% !important;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.sticky {
+  position: sticky;
+}
+
+.m-a{
+  margin:auto;
+}
+
+.opacity-5 {
+  opacity:0.5;
+}
+
+// this will help to put an offset to the main-container
+.top-60 {
+  top: 60px;
+}
+
+.card-custom-shadow {
+  box-shadow: 0px 3px 6px #00000028 !important;
+}
+.card-large-shadow{
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+.default-text-transform {
+  text-transform: none;
+}
+
+// esto es para que se vean mejor las letras pequenhas
+// .text-caption {
+//   letter-spacing: 0 !important;
+// }
+
+.v-overlay--active {
+  z-index: 202 !important;
+}
+
+.w-main-content {
+  justify-content: center;
+  width: calc(100vw - 840px);
+  // inside the center content
+  .main-content {
+    max-width: 880px;
+  }
+}
+
+.v-dialog:not(.v-dialog--fullscreen) {
+  max-height: 800px;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.form-labels {
+  max-height: 600px;
+  overflow: auto;
+}
+
+.search-input {
+  width: 100%;
+  padding: 8px 20px;
+  background: #fff;
+  border-radius: 19px;
+  margin-bottom: 10px;
+  outline: none;
+}
+
+.outline-none {
+  outline: none;
+}
+
+.bottom-0 {
+  bottom: 0;
+}
+
+.right-0 {
+  right: 0
+}
+
+.left-0 {
+  left: 0
+}
+
+.top-0 {
+  top: 0
+}
+
+// z index
+.z-10 {
+  z-index: 10;
+}
+
+.z-20 {
+  z-index: 20;
+}
+
+.z-30 {
+  z-index: 30;
+}
+
+.pointer-auto {
+  pointer-events: auto;
+}
+
+.leading-tight {
+  line-height: 1rem !important;
+}
+
+.leading-0 {
+  line-height: 0;
+}
+
+.text-nowrap {
+  white-space: nowrap;
+}
+
+//To override default styles of cards
+.v-sheet.v-card  {
+  border-radius: 8px !important;
+}
+
+.img-cover {
+  object-fit: cover;
+}
+
+* ::-webkit-scrollbar {
+  width: 6px;
+}
+* ::-webkit-scrollbar-thumb {
+  background: #b4b1ca;
+  border-radius: 2px;
+}
+* ::-webkit-scrollbar-track {
+  border-radius: 2px;
+}
+
+.subtitle {
+  font-size: 0.75rem;
+  line-height: 1.5rem;
+}
+.ql-container .ql-editor p {    
+  display: block;
+  width: 100%;
+  height: auto;
+}

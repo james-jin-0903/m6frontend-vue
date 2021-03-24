@@ -1,0 +1,10 @@
+<svg id="Component_43_1" data-name="Component 43 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="471" height="512" viewBox="0 0 471 512">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2af598"/>
+      <stop offset="1" stop-color="#009efd"/>
+    </linearGradient>
+  </defs>
+  <path id="_030-contact-book" data-name="030-contact-book" d="M411,0H100A60.066,60.066,0,0,0,40,60V97H0v40H40V237H0v40H40V377H0v40H40v35a60.066,60.066,0,0,0,60,60H411a60.066,60.066,0,0,0,60-60V60A60.066,60.066,0,0,0,411,0Zm20,452a20.024,20.024,0,0,1-20,20H100a20.024,20.024,0,0,1-20-20V417h9v-.051c.332.016.664.051,1,.051a20,20,0,0,0,0-40c-.336,0-.668.035-1,.051V377H80V277h9v-.051c.332.016.664.051,1,.051a20,20,0,0,0,0-40c-.336,0-.668.035-1,.051V237H80V137h9v-.051c.332.016.664.051,1,.051a20,20,0,0,0,0-40c-.336,0-.668.035-1,.051V97H80V60a20.024,20.024,0,0,1,20-20H411a20.024,20.024,0,0,1,20,20ZM318,250.742a71,71,0,1,0-109.519.766A121.125,121.125,0,0,0,143,359h40a81,81,0,0,1,162,0h40a121.136,121.136,0,0,0-67-108.258ZM262.93,175a31,31,0,1,1-31,31A31.035,31.035,0,0,1,262.93,175Zm0,0" fill="url(#linear-gradient)"/>
+  <path id="_002-add-reminder" data-name="002-add-reminder" d="M444,405.9H405.9V444H382.1V405.9H344V382.1h38.1V344H405.9v38.1H444Zm0,0" transform="translate(-136 -32)" fill="url(#linear-gradient)"/>
+</svg>

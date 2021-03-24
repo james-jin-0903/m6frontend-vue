@@ -1,0 +1,10 @@
+<svg id="Component_42_1" data-name="Component 42 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="385" height="512" viewBox="0 0 385 512">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2af598"/>
+      <stop offset="1" stop-color="#009efd"/>
+    </linearGradient>
+  </defs>
+  <path id="_002-add-reminder" data-name="002-add-reminder" d="M494,436.857H436.857V494H401.143V436.857H344V401.143h57.143V344h35.714v57.143H494Zm0,0" transform="translate(-226 -110)" fill="url(#linear-gradient)"/>
+  <path id="_014-audit" data-name="014-audit" d="M325.5,40H250.074a60.008,60.008,0,0,0-113.148,0H60.5a60.066,60.066,0,0,0-60,60V452a60.066,60.066,0,0,0,60,60H325.563A60.08,60.08,0,0,0,385.5,452V100a60.066,60.066,0,0,0-60-60Zm-152,40V60a20,20,0,0,1,40,0V80h40v39h-120V80Zm172,372a20.025,20.025,0,0,1-19.957,20H60.5a20.024,20.024,0,0,1-20-20V100a20.024,20.024,0,0,1,20-20h33v79h200V80h32a20.024,20.024,0,0,1,20,20Z" transform="translate(-0.5)" fill="url(#linear-gradient)"/>
+</svg>
